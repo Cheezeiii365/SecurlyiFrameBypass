@@ -1,0 +1,20 @@
+How did I do it???
+
+well, it’s simple.
+
+it’s just an iframe.
+
+that’s all it is.
+
+go look at the source code.
+
+TLDR: look at example.html and replace example.com with another website.
+
+it’s an iframe that automatically changes to your browsers’s width and accesses surviv.io indirectly.
+most school website blockers just block direct connections to websites (securly was the one my school used) but not iframes.
+this takes advantage of this and lets you play surviv.
+the iframe also has a property that lets it go fullscreen, which is why you can do that and not on other websites.
+this may also work with other online games too. if you want, you can fork it through GitHub and edit the url it accesses.
+its free to use and fork.
+
+i may make a video explaining this later.
